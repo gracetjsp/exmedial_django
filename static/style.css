@@ -1,0 +1,7 @@
+.banner {
+    background-position: center;
+    background: linear-gradient(to bottom left, #C4F5F3 0%, #FFFFFF 50%, #C4F5F3 100%);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
+}
